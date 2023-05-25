@@ -1,0 +1,15 @@
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/bin/Debug/net7.0/PongGame
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/bin/Debug/net7.0/PongGame.deps.json
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/bin/Debug/net7.0/PongGame.runtimeconfig.json
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/bin/Debug/net7.0/PongGame.dll
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/bin/Debug/net7.0/PongGame.pdb
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/obj/Debug/net7.0/PongGame.csproj.AssemblyReference.cache
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/obj/Debug/net7.0/PongGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/obj/Debug/net7.0/PongGame.AssemblyInfoInputs.cache
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/obj/Debug/net7.0/PongGame.AssemblyInfo.cs
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/obj/Debug/net7.0/PongGame.csproj.CoreCompileInputs.cache
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/obj/Debug/net7.0/PongGame.dll
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/obj/Debug/net7.0/refint/PongGame.dll
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/obj/Debug/net7.0/PongGame.pdb
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/obj/Debug/net7.0/PongGame.genruntimeconfig.cache
+/Users/aroningilenvig/Desktop/Skole H1/Gundleggendi programmering/Code/PongGame/obj/Debug/net7.0/ref/PongGame.dll
